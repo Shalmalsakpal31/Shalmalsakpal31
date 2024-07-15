@@ -1,10 +1,10 @@
 
   
 
-### <div align="center">Hye forks, I'm Shalmal , a full-time Flutter & Frontend Developer 👨‍💻 </div>  
+### <div align="center">Hye forks, I'm Shalmal , a full-time Web Developer 👨‍💻 </div>  
   
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align= "right" style="width: 50%" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align= "center" style="width: 100%" />
 </div>  
 
 - 🔭 I’m currently working on [Flutter Projects](https://github.com/Shalmalsakpal31)  
